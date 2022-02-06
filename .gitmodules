@@ -1,0 +1,6 @@
+[submodule "carbon-for-ibm-dotcom"]
+	path = carbon-for-ibm-dotcom
+	url = https://github.com/carbon-design-system/carbon-for-ibm-dotcom.git
+[submodule "carbon"]
+	path = carbon
+	url = https://github.com/carbon-design-system/carbon.git
