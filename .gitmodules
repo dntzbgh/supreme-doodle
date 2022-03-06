@@ -4,3 +4,6 @@
 [submodule "carbon"]
 	path = carbon
 	url = https://github.com/dntzbgh/carbon.git
+[submodule "carbon-custom"]
+	path = carbon-custom
+	url = https://github.com/dntzbgh/carbon-custom.git
